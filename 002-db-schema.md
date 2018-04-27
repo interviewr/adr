@@ -1,4 +1,4 @@
-# 000 - Template
+# 002 - Template
 
 DB Schema by use cases from [001-usecases.md](./usecases.md)
 
