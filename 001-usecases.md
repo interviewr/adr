@@ -5,6 +5,7 @@ Interviewr is an app to simplify and enhance interview process
 ## Status
 
 * 2018-04-21: proposed
+* 2018-04-22: accepted
 
 ## Context
 
